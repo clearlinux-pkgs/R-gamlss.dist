@@ -4,7 +4,7 @@
 #
 Name     : R-gamlss.dist
 Version  : 6.0.5
-Release  : 6
+Release  : 7
 URL      : https://cran.r-project.org/src/contrib/gamlss.dist_6.0-5.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/gamlss.dist_6.0-5.tar.gz
 Summary  : Distributions for Generalized Additive Models for Location Scale
